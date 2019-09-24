@@ -1,0 +1,73 @@
+<?php
+// Heading
+$_['heading_title']         = 'Sagepay Direct Cards';
+
+// Text
+$_['text_empty']		    = 'You have no saved cards';
+$_['text_account']          = 'Account';
+$_['text_card']			    = 'SagePay Direct Card Management';
+$_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
+$_['text_success_card']     = 'SagePay card successfully removed';
+$_['text_success_add_card'] = 'SagePay card successfully added';
+
+// Column
+$_['column_type']		    = 'Card Type';
+$_['column_digits']	        = 'Last Digits';
+$_['column_expiry']		    = 'Expiry';
+
+// Entry
+$_['entry_cc_owner']        = 'Card Owner';
+$_['entry_cc_type']         = 'Card Type';
+$_['entry_cc_number']       = 'Card Number';
+$_['entry_cc_expire_date']  = 'Card Expiry Date';
+$_['entry_cc_cvv2']         = 'Card Security Code (CVV2)';
+$_['entry_cc_choice']       = 'Choose an Existing Card';
+
+// Button
+$_['button_add_card']       = 'Add Card';
+$_['button_new_card']       = 'Add New Card';
+
+
+
+<?php
+// Heading
+$_['heading_title']         = 'Sagepay Server Cards';
+
+// Text
+$_['text_empty']		    = 'You have no saved cards';
+$_['text_account']          = 'Account';
+$_['text_card']			    = 'SagePay Server Card Management';
+$_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
+$_['text_success_card']     = 'SagePay card successfully removed';
+$_['text_success_add_card'] = 'SagePay card successfully added';
+
+// Column
+$_['column_type']		    = 'Card Type';
+$_['column_digits']	        = 'Last Digits';
+$_['column_expiry']	     	= 'Expiry';
+
+// Entry
+$_['entry_cc_owner']        = 'Card Owner';
+$_['entry_cc_type']         = 'Card Type';
+$_['entry_cc_number']       = 'Card Number';
+$_['entry_cc_expire_date']  = 'Card Expiry Date';
+$_['entry_cc_cvv2']         = 'Card Security Code (CVV2)';
+$_['entry_cc_choice']       = 'Choose an Existing Card';
+
+// Button
+$_['button_add_card']       = 'Add Card';
+$_['button_new_card']       = 'Add New Card';
+
+
+
+<?php
+
+$_['heading_title'] = 'Square Credit Cards';
+
+$_['text_account'] = 'Account';
+$_['text_back'] = 'Back';
+$_['text_delete'] = 'Delete';
+$_['text_no_cards'] = 'There are no cards stored on our database.';
+$_['text_card_ends_in'] = '%s card ending in &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; %s';
+$_['text_warning_card'] = 'Do you confirm you want to remove this card? You may add it again later on your next checkout.';
+$_['text_success_card_delete'] = 'Success! This card has been removed.';
