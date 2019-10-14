@@ -1,4 +1,4 @@
-<?php
+
 // Heading
 $_['heading_title']      = 'Product Returns';
 
@@ -60,7 +60,7 @@ $_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
 $_['error_product']      = 'Product Name must be greater than 3 and less than 255 characters!';
 $_['error_model']        = 'Product Model must be greater than 3 and less than 64 characters!';
 $_['error_reason']       = 'You must select a return product reason!';
-$_['error_agree']        = 'Warning: You must agree to the %s!';<?php
+$_['error_agree']        = 'Warning: You must agree to the %s!';
 // Heading
 $_['heading_title']                        = 'Recurring Payments';
 
@@ -111,7 +111,7 @@ $_['error_not_cancelled']                  = 'Error: %s';
 $_['error_not_found']                      = 'Could not cancel recurring';
 
 // Button
-$_['button_return']                        = 'Return';<?php
+$_['button_return']                        = 'Return';
 // Heading
 $_['heading_title']  = 'Reset your password';
 
@@ -127,7 +127,7 @@ $_['entry_confirm']  = 'Confirm';
 // Error
 $_['error_password'] = 'Password must be between 4 and 20 characters!';
 $_['error_confirm']  = 'Password and password confirmation do not match!';
-$_['error_code']     = 'Password reset code is invalid or was used previously!';<?php
+$_['error_code']     = 'Password reset code is invalid or was used previously!';
 // Heading
 $_['heading_title']        = 'Register Account';
 
@@ -159,7 +159,7 @@ $_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
 $_['error_custom_field']   = '%s required!';
 $_['error_password']       = 'Password must be between 4 and 20 characters!';
 $_['error_confirm']        = 'Password confirmation does not match password!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';<?php
+$_['error_agree']          = 'Warning: You must agree to the %s!';
 // Heading
 $_['heading_title']    = 'Affiliate Tracking';
 
@@ -173,14 +173,14 @@ $_['entry_generator']  = 'Tracking Link Generator';
 $_['entry_link']       = 'Tracking Link';
 
 // Help
-$_['help_generator']  = 'Type in the name of a product you would like to link to';<?php
+$_['help_generator']  = 'Type in the name of a product you would like to link to';
 // Heading
 $_['heading_title'] = 'Account Logout';
 
 // Text
 $_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
 $_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';<?php
+$_['text_logout']   = 'Logout';
 // Heading
 $_['heading_title']   = 'Forgot Your Password?';
 
@@ -200,7 +200,7 @@ $_['entry_confirm']   = 'Confirm';
 $_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
 $_['error_approved']  = 'Warning: Your account requires approval before you can login.';
 $_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';<?php
+$_['error_confirm']   = 'Password and password confirmation do not match!';
 // Heading
 $_['heading_title']  = 'Change Password';
 
@@ -215,7 +215,7 @@ $_['entry_confirm']  = 'Password Confirm';
 
 // Error
 $_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';<?php
+$_['error_confirm']  = 'Password confirmation does not match password!';
 // Heading
 $_['heading_title']         = 'Order History';
 
@@ -251,7 +251,7 @@ $_['column_status']         = 'Status';
 $_['column_comment']        = 'Comment';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';<?php
+$_['error_reorder']         = '%s is not currently available to be reordered.';
 // Heading
 $_['heading_title']                = 'Account Login';
 
@@ -272,7 +272,7 @@ $_['entry_password']               = 'Password';
 // Error
 $_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
 $_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';<?php
+$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
 // Heading
 $_['heading_title'] = 'My Wish List';
 
@@ -291,7 +291,7 @@ $_['column_name']   = 'Product Name';
 $_['column_model']  = 'Model';
 $_['column_stock']  = 'Stock';
 $_['column_price']  = 'Unit Price';
-$_['column_action'] = 'Action';<?php
+$_['column_action'] = 'Action';
 // Heading
 $_['heading_title'] = 'Your Account Has Been Created!';
 
@@ -299,7 +299,7 @@ $_['heading_title'] = 'Your Account Has Been Created!';
 $_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
 $_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
 $_['text_account']  = 'Account';
-$_['text_success']  = 'Success';<?php
+$_['text_success']  = 'Success';
 // Heading
 $_['heading_title']             = 'Your Affiliate Information';
 
@@ -333,7 +333,7 @@ $_['error_cheque']              = 'Cheque Payee Name required!';
 $_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
 $_['error_bank_account_name']   = 'Account Name required!';
 $_['error_bank_account_number'] = 'Account Number required!';
-$_['error_custom_field']        = '%s required!';<?php
+$_['error_custom_field']        = '%s required!';
 // Heading
 $_['heading_title']    = 'Newsletter Subscription';
 
@@ -343,7 +343,7 @@ $_['text_newsletter']  = 'Newsletter';
 $_['text_success']     = 'Success: Your newsletter subscription has been successfully updated!';
 
 // Entry
-$_['entry_newsletter'] = 'Subscribe';<?php
+$_['entry_newsletter'] = 'Subscribe';
 // Heading
 $_['heading_title']      = 'My Account Information';
 
@@ -365,7 +365,7 @@ $_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
 $_['error_email']        = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';<?php
+$_['error_custom_field'] = '%s required!';
 // Heading
 $_['heading_title']    = 'Purchase a Gift Certificate';
 
@@ -396,7 +396,7 @@ $_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
 $_['error_email']      = 'E-Mail Address does not appear to be valid!';
 $_['error_theme']      = 'You must select a theme!';
 $_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';<?php
+$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
 // Heading
 $_['heading_title']      = 'Your Reward Points';
 
@@ -409,7 +409,7 @@ $_['column_points']      = 'Points';
 $_['text_account']       = 'Account';
 $_['text_reward']        = 'Reward Points';
 $_['text_total']         = 'Your total number of reward points is:';
-$_['text_empty']         = 'You do not have any reward points!';<?php
+$_['text_empty']         = 'You do not have any reward points!';
 // Heading
 $_['heading_title']      = 'Address Book';
 
@@ -445,7 +445,7 @@ $_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
 $_['error_city']         = 'City must be between 2 and 128 characters!';
 $_['error_country']      = 'Please select a country!';
 $_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';<?php
+$_['error_custom_field'] = '%s required!';
 // Heading
 $_['heading_title']       = 'My Account';
 
@@ -470,7 +470,7 @@ $_['text_recurring']      = 'Recurring payments';
 $_['text_transactions']   = 'Transactions';
 $_['text_affiliate_add']  = 'Register for an affiliate account';
 $_['text_affiliate_edit'] = 'Edit your affiliate information';
-$_['text_tracking']       = 'Custom Affiliate Tracking Code';<?php
+$_['text_tracking']       = 'Custom Affiliate Tracking Code';
 // Heading
 $_['heading_title']     = 'Account Downloads';
 
@@ -483,7 +483,7 @@ $_['text_empty']        = 'You have not made any previous downloadable orders!';
 $_['column_order_id']   = 'Order ID';
 $_['column_name']       = 'Name';
 $_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';<?php
+$_['column_date_added'] = 'Date Added';
 // Heading
 $_['heading_title']      = 'Your Transactions';
 
@@ -496,7 +496,7 @@ $_['column_amount']      = 'Amount (%s)';
 $_['text_account']       = 'Account';
 $_['text_transaction']   = 'Your Transactions';
 $_['text_total']         = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';<?php
+$_['text_empty']         = 'You do not have any transactions!';
 // Heading
 $_['heading_title']             = 'Affiliate Program';
 
@@ -547,7 +547,7 @@ $_['error_bank_account_name']   = 'Account Name required!';
 $_['error_bank_account_number'] = 'Account Number required!';
 $_['error_password']            = 'Password must be between 4 and 20 characters!';
 $_['error_confirm']             = 'Password confirmation does not match password!';
-$_['error_agree']               = 'Warning: You must agree to the %s!';<?php
+$_['error_agree']               = 'Warning: You must agree to the %s!';
 // Heading
 $_['heading_title']                 = 'Affiliate Program';
 
@@ -568,7 +568,7 @@ $_['entry_password']                = 'Password';
 // Error
 $_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
 $_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';<?php
+$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
 // Heading
 $_['heading_title'] = 'Your Affiliate Account Has Been Created!';
 
@@ -576,7 +576,7 @@ $_['heading_title'] = 'Your Affiliate Account Has Been Created!';
 $_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
 $_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
 $_['text_account']  = 'Account';
-$_['text_success']  = 'Success';<?php
+$_['text_success']  = 'Success';
 // Text
 $_['text_subject']        = '%s - Thank you for registering';
 $_['text_welcome']        = 'Welcome and thank you for registering at %s!';
@@ -590,12 +590,12 @@ $_['text_customer_group'] = 'Customer Group:';
 $_['text_firstname']      = 'First Name:';
 $_['text_lastname']       = 'Last Name:';
 $_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';<?php
+$_['text_telephone']      = 'Telephone:';
 // Text
 $_['text_subject']  = '%s - Password reset request';
 $_['text_greeting'] = 'A new password was requested for %s customer account.';
 $_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';<?php
+$_['text_ip']       = 'The IP used to make this request was:';
 // Text
 $_['text_subject']          = '%s - Order %s';
 $_['text_greeting']         = 'Thank you for your interest in %s products. Your order has been received and will be processed once payment has been confirmed.';
@@ -621,7 +621,7 @@ $_['text_order_total']      = 'Order Totals';
 $_['text_total']            = 'Total';
 $_['text_download']         = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
 $_['text_comment']          = 'The comments for your order are:';
-$_['text_footer']           = 'Please reply to this e-mail if you have any questions.';<?php
+$_['text_footer']           = 'Please reply to this e-mail if you have any questions.';
 // Text
 $_['text_subject']      = '%s - Order %s';
 $_['text_received']     = 'You have received an order.';
@@ -631,7 +631,7 @@ $_['text_order_status'] = 'Order Status:';
 $_['text_product']      = 'Products';
 $_['text_total']        = 'Totals';
 $_['text_comment']      = 'The comments for your order are:';
-<?php
+
 // Text
 $_['text_subject']      = '%s - Order Update %s';
 $_['text_order_id']     = 'Order ID:';
@@ -639,7 +639,7 @@ $_['text_date_added']   = 'Date Added:';
 $_['text_order_status'] = 'Your order has been updated to the following status:';
 $_['text_comment']      = 'The comments for your order are:';
 $_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';<?php
+$_['text_footer']       = 'Please reply to this email if you have any questions.';
 // Text
 $_['text_subject']        = '%s - Affiliate Program';
 $_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
@@ -655,26 +655,26 @@ $_['text_firstname']      = 'First Name:';
 $_['text_lastname']       = 'Last Name:';
 $_['text_company']        = 'Company:';
 $_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';<?php
+$_['text_telephone']      = 'Telephone:';
 // Text
 $_['text_subject']  = '%s - Product Review';
 $_['text_waiting']  = 'You have a new product review waiting.';
 $_['text_product']  = 'Product: %s';
 $_['text_reviewer'] = 'Reviewer: %s';
 $_['text_rating']   = 'Rating: %s';
-$_['text_review']   = 'Review Text:';<?php
+$_['text_review']   = 'Review Text:';
 // Text
 $_['text_subject']  = 'You have been sent a gift certificate from %s';
 $_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
 $_['text_from']     = 'This Gift Certificate has been sent to you by %s';
 $_['text_message']  = 'With a message saying';
 $_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift certificate on. You can enter the gift certificate code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';<?php
+$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
 // Text
 $_['text_subject']  = '%s - Affiliate Commission';
 $_['text_received'] = 'Congratulations! You have received a commission payment from the %s affiliate program';
 $_['text_amount']   = 'You have received:';
-$_['text_total']    = 'Your total amount of commission is now:';<?php
+$_['text_total']    = 'Your total amount of commission is now:';
 // Locale
 $_['code']                  = 'en';
 $_['direction']             = 'ltr';
@@ -863,7 +863,7 @@ $_['datepicker']            = 'en-gb';
 //$_['datepicker']            = 'yo';
 //$_['datepicker']            = 'zh-cn';
 //$_['datepicker']            = 'zh-hk';
-//$_['datepicker']            = 'zh-tw';<?php
+//$_['datepicker']            = 'zh-tw';
 // Text
 $_['text_address']       = 'Success: Payment address has been set!';
 $_['text_method']        = 'Success: Payment method has been set!';
@@ -880,7 +880,7 @@ $_['error_zone']         = 'Please select a region / state!';
 $_['error_custom_field'] = '%s required!';
 $_['error_address']      = 'Warning: Payment address required!';
 $_['error_method']       = 'Warning: Payment method required!';
-$_['error_no_payment']   = 'Warning: No Payment options are available!';<?php
+$_['error_no_payment']   = 'Warning: No Payment options are available!';
 // Text
 $_['text_success']     = 'Success: You have modified your shopping cart!';
 
@@ -889,7 +889,7 @@ $_['error_permission'] = 'Warning: You do not have permission to access the API!
 $_['error_stock']      = 'Products marked with *** are not available in the desired quantity or not in stock!';
 $_['error_minimum']    = 'Minimum order amount for %s is %s!';
 $_['error_store']      = 'Product can not be bought from the store you have choosen!';
-$_['error_required']   = '%s required!';<?php
+$_['error_required']   = '%s required!';
 // Text
 $_['text_success']       = 'You have successfully modified customers';
 
@@ -900,7 +900,7 @@ $_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
 $_['error_email']        = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';<?php
+$_['error_custom_field'] = '%s required!';
 // Text
 $_['text_success']           = 'Success: You have modified orders!';
 
@@ -915,19 +915,19 @@ $_['error_shipping_method']  = 'Warning: Shipping method required!';
 $_['error_no_shipping']      = 'Warning: No Shipping options are available!';
 $_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
 $_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'Warning: Order could not be found!';<?php
+$_['error_not_found']        = 'Warning: Order could not be found!';
 // Text
 $_['text_success'] = 'Success: API session successfully started!';
 
 // Error
 $_['error_key']    = 'Warning: Incorrect API Key!';
-$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';<?php
+$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';
 // Text
 $_['text_success']     = 'Success: Your coupon discount has been applied!';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_coupon']     = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';<?php
+$_['error_coupon']     = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
 // Text
 $_['text_address']       = 'Success: Shipping address has been set!';
 $_['text_method']        = 'Success: Shipping method has been set!';
@@ -944,7 +944,7 @@ $_['error_zone']         = 'Please select a region / state!';
 $_['error_custom_field'] = '%s required!';
 $_['error_address']      = 'Warning: Shipping address required!';
 $_['error_method']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']  = 'Warning: No Shipping options are available!';<?php
+$_['error_no_shipping']  = 'Warning: No Shipping options are available!';
 // Text
 $_['text_success']     = 'Success: Your gift voucher discount has been applied!';
 $_['text_cart']        = 'Success: You have modified your shopping cart!';
@@ -957,13 +957,13 @@ $_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!
 $_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
 $_['error_email']      = 'E-Mail Address does not appear to be valid!';
 $_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';<?php
+$_['error_amount']     = 'Amount must be between %s and %s!';
 // Text
 $_['text_success']     = 'Success: Your currency has been changed!';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_currency']   = 'Warning: Currency code is invalid!';<?php
+$_['error_currency']   = 'Warning: Currency code is invalid!';
 // Text
 $_['text_success']     = 'Success: Your reward points discount has been applied!';
 
@@ -971,7 +971,7 @@ $_['text_success']     = 'Success: Your reward points discount has been applied!
 $_['error_permission'] = 'Warning: You do not have permission to access the API!';
 $_['error_reward']     = 'Warning: Please enter the amount of reward points to use!';
 $_['error_points']     = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']    = 'Warning: The maximum number of points that can be applied is %s!';<?php
+$_['error_maximum']    = 'Warning: The maximum number of points that can be applied is %s!';
 // Heading
 $_['heading_title']     = 'Search';
 $_['heading_tag']       = 'Tag - ';
@@ -1004,7 +1004,7 @@ $_['text_limit']        = 'Show:';
 
 // Entry
 $_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';<?php
+$_['entry_description'] = 'Search in product descriptions';
 // Heading
 $_['heading_title']     = 'Special Offers';
 
@@ -1027,7 +1027,7 @@ $_['text_rating_asc']   = 'Rating (Lowest)';
 $_['text_rating_desc']  = 'Rating (Highest)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';<?php
+$_['text_limit']        = 'Show:';
 // Text
 $_['text_refine']       = 'Refine Search';
 $_['text_product']      = 'Products';
@@ -1050,7 +1050,7 @@ $_['text_rating_asc']   = 'Rating (Lowest)';
 $_['text_rating_desc']  = 'Rating (Highest)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';<?php
+$_['text_limit']        = 'Show:';
 // Heading
 $_['heading_title']     = 'Find Your Favorite Brand';
 
@@ -1076,7 +1076,7 @@ $_['text_rating_asc']   = 'Rating (Lowest)';
 $_['text_rating_desc']  = 'Rating (Highest)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';<?php
+$_['text_limit']        = 'Show:';
 // Heading
 $_['heading_title']     = 'Product Comparison';
 
@@ -1097,7 +1097,7 @@ $_['text_dimension']    = 'Dimensions (L x W x H)';
 $_['text_compare']      = 'Product Compare (%s)';
 $_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
 $_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_empty']        = 'You have not chosen any products to compare.';<?php
+$_['text_empty']        = 'You have not chosen any products to compare.';
 // Text
 $_['text_search']              = 'Search';
 $_['text_brand']               = 'Brand';
@@ -1146,12 +1146,12 @@ $_['tab_review']               = 'Reviews (%s)';
 // Error
 $_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
 $_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';<?php
+$_['error_rating']             = 'Warning: Please select a review rating!';
 // Heading
 $_['heading_title'] = 'The page you requested cannot be found!';
 
 // Text
-$_['text_error']    = 'The page you requested cannot be found.';<?php
+$_['text_error']    = 'The page you requested cannot be found.';
 // Heading
 $_['heading_title']            = 'Shopping Cart';
 
@@ -1191,7 +1191,7 @@ $_['error_stock']              = 'Products marked with *** are not available in 
 $_['error_minimum']            = 'Minimum order amount for %s is %s!';
 $_['error_required']           = '%s required!';
 $_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';<?php
+$_['error_recurring_required'] = 'Please select a payment recurring!';
 // Heading
 $_['heading_title'] = 'Failed Payment!';
 
@@ -1210,7 +1210,7 @@ $_['text_message']  = '<p>There was a problem processing your payment and the or
 <p>Please try to order again using a different payment method.</p>
 
 <p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
-';<?php
+';
 // Heading
 $_['heading_title']        = 'Your order has been placed!';
 
@@ -1219,7 +1219,7 @@ $_['text_basket']          = 'Shopping Cart';
 $_['text_checkout']        = 'Checkout';
 $_['text_success']         = 'Success';
 $_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';<?php
+$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
 // Heading
 $_['heading_title']                  = 'Checkout';
 
@@ -1311,25 +1311,25 @@ $_['error_shipping']                 = 'Warning: Shipping method required!';
 $_['error_no_shipping']              = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
 $_['error_payment']                  = 'Warning: Payment method required!';
 $_['error_no_payment']               = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_custom_field']             = '%s required!';<?php
+$_['error_custom_field']             = '%s required!';
 // Heading
 $_['heading_title'] = 'Specials';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';<?php
+$_['text_tax']      = 'Ex Tax:';
 // Heading
-$_['heading_title'] = 'Categories';<?php
+$_['heading_title'] = 'Categories';
 // Heading
 $_['heading_title'] = 'Featured';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';<?php
+$_['text_tax']      = 'Ex Tax:';
 // Heading
 $_['heading_title'] = 'Choose a Store';
 
 // Text
 $_['text_default']  = 'Default';
-$_['text_store']    = 'Please choose the store you wish to visit.';<?php
+$_['text_store']    = 'Please choose the store you wish to visit.';
 // Calculator
 $_['text_checkout_title']      = 'Pay in instalments';
 $_['text_choose_plan']         = 'Choose your plan';
@@ -1342,12 +1342,12 @@ $_['text_credit_amount']       = 'Cost of credit';
 $_['text_amount_payable']      = 'Total payable';
 $_['text_total_interest']      = 'Total interest APR';
 $_['text_monthly_installment'] = 'Monthly installment';
-$_['text_redirection']         = 'You will be redirected to Divido to complete this finance application when you confirm your order';<?php
+$_['text_redirection']         = 'You will be redirected to Divido to complete this finance application when you confirm your order';
 // Heading
 $_['heading_title'] = 'Latest';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';<?php
+$_['text_tax']      = 'Ex Tax:';
 // Heading
 $_['heading_title'] = 'Login with Amazon';
 
@@ -1379,7 +1379,7 @@ $_['entry_status'] = 'Status';
 $_['entry_sort_order'] = 'Sort Order';
 
 //Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Login with Amazon!';<?php
+$_['error_permission'] = 'Warning: You do not have permission to modify module Login with Amazon!';
 // Heading
 $_['heading_title'] = 'Pay with Amazon';
 
@@ -1411,16 +1411,16 @@ $_['entry_status'] = 'Status';
 $_['entry_sort_order'] = 'Sort Order';
 
 //Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Pay with Amazon!';<?php
+$_['error_permission'] = 'Warning: You do not have permission to modify module Pay with Amazon!';
 // Heading
-$_['heading_title'] = 'On our eBay store';<?php
+$_['heading_title'] = 'On our eBay store';
 // Heading
-$_['heading_title'] = 'Live Chat';<?php
+$_['heading_title'] = 'Live Chat';
 // Heading
 $_['heading_title'] = 'Bestsellers';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';<?php
+$_['text_tax']      = 'Ex Tax:';
 // Heading
 $_['heading_title']            = 'Lay-Buy Information';
 
@@ -1445,7 +1445,7 @@ $_['column_instalment']        = 'Instalment';
 $_['column_amount']            = 'Amount';
 $_['column_date']              = 'Date';
 $_['column_pp_trans_id']       = 'PayPal Transaction ID';
-$_['column_status']            = 'Status';<?php
+$_['column_status']            = 'Status';
 // Heading
 $_['heading_title']    = 'Account';
 
@@ -1465,15 +1465,15 @@ $_['text_reward']      = 'Reward Points';
 $_['text_return']      = 'Returns';
 $_['text_transaction'] = 'Transactions';
 $_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';<?php
+$_['text_recurring']   = 'Recurring payments';
 // Heading
-$_['heading_title'] = 'Refine Search';<?php
+$_['heading_title'] = 'Refine Search';
 // Heading
 $_['heading_title'] = 'Information';
 
 // Text
 $_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';<?php
+$_['text_sitemap']  = 'Site Map';
 // Text
 $_['text_captcha']  = 'Captcha';
 
@@ -1481,7 +1481,7 @@ $_['text_captcha']  = 'Captcha';
 $_['entry_captcha'] = 'Enter the code in the box below';
 
 // Error
-$_['error_captcha'] = 'Verification code does not match the image!';<?php
+$_['error_captcha'] = 'Verification code does not match the image!';
 // Text
 $_['text_captcha']  = 'Captcha';
 
@@ -1489,14 +1489,14 @@ $_['text_captcha']  = 'Captcha';
 $_['entry_captcha'] = 'Please complete the captcha validation below';
 
 // Error
-$_['error_captcha'] = 'Verification is not correct!';<?php
+$_['error_captcha'] = 'Verification is not correct!';
 // Text
-$_['text_sub_total'] = 'Sub-Total';<?php
+$_['text_sub_total'] = 'Sub-Total';
 // Text
-$_['text_handling'] = 'Handling Fee';<?php
+$_['text_handling'] = 'Handling Fee';
 // Text
-$_['text_total'] = 'Total';<?php
-$_['text_klarna_fee'] = 'Klarna Fee';<?php
+$_['text_total'] = 'Total';
+$_['text_klarna_fee'] = 'Klarna Fee';
 // Heading
 $_['heading_title'] = 'Use Coupon Code';
 
@@ -1509,12 +1509,12 @@ $_['entry_coupon']  = 'Enter your coupon here';
 
 // Error
 $_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';<?php
+$_['error_empty']   = 'Warning: Please enter a coupon code!';
 // Text
 $_['text_credit']   = 'Store Credit';
-$_['text_order_id'] = 'Order ID: #%s';<?php
+$_['text_order_id'] = 'Order ID: #%s';
 // Text
-$_['text_low_order_fee'] = 'Low Order Fee';<?php
+$_['text_low_order_fee'] = 'Low Order Fee';
 // Heading
 $_['heading_title']        = 'Estimate Shipping &amp; Taxes';
 
@@ -1533,7 +1533,7 @@ $_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
 $_['error_country']        = 'Please select a country!';
 $_['error_zone']           = 'Please select a region / state!';
 $_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';<?php
+$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
 // Heading
 $_['heading_title'] = 'Use Gift Certificate';
 
@@ -1546,7 +1546,7 @@ $_['entry_voucher'] = 'Enter your gift certificate code here';
 
 // Error
 $_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';<?php
+$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
 // Heading
 $_['heading_title'] = 'Use Reward Points (Available %s)';
 
@@ -1561,7 +1561,7 @@ $_['entry_reward']  = 'Points to use (Max %s)';
 // Error
 $_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
 $_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';<?php
+$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
 // Text
 $_['text_title']                = 'Square';
 $_['text_canceled']             = 'Success: You have succesfully canceled this payment! We sent you a confirmation e-mail.';
@@ -1573,7 +1573,7 @@ $_['button_cancel']             = 'Cancel Recurring Payment';
 
 // Error
 $_['error_not_cancelled']       = 'Error: %s';
-$_['error_not_found']           = 'Could not cancel recurring profile';<?php
+$_['error_not_found']           = 'Could not cancel recurring profile';
 // Text
 $_['text_title']          = 'PayPal Express Checkout';
 $_['text_canceled']       = 'Success: You have succesfully caneled this payment!';
@@ -1583,7 +1583,7 @@ $_['button_cancel']       = 'Cancel Recurring Payment';
 
 // Error
 $_['error_not_cancelled'] = 'Error: %s';
-$_['error_not_found']     = 'Could not cancel recurring profile';<?php
+$_['error_not_found']     = 'Could not cancel recurring profile';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (BluePay)';
 $_['text_credit_card']			= 'Card Details';
@@ -1610,13 +1610,13 @@ $_['entry_cc_state']			= 'State';
 $_['entry_cc_zipcode']			= 'Zipcode';
 $_['entry_cc_phone']			= 'Phone';
 $_['entry_cc_email']			= 'Email';
-$_['entry_cc_choice']			= 'Choose an Existing Card';<?php
+$_['entry_cc_choice']			= 'Choose an Existing Card';
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_secure_connection']	= 'Creating a secure connection...';
 
 // Error
-$_['error_connection']			= 'Could not connect to PayPal. Please contact the shop\'s administrator for assistance or choose a different payment method.';<?php
+$_['error_connection']			= 'Could not connect to PayPal. Please contact the shop\'s administrator for assistance or choose a different payment method.';
 // Text
 $_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
 $_['text_wait']					= 'Please wait!';
@@ -1632,7 +1632,7 @@ $_['entry_cc_issue']			= 'Card Issue Number';
 
 // Help
 $_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';<?php
+$_['help_issue']				= '(for Maestro and Solo cards only)';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (Paymate)';
 $_['text_unable']				= 'Unable to locate or update your order status';
@@ -1641,11 +1641,11 @@ $_['text_failed']				= 'Paymate Transaction Failed';
 $_['text_failed_message']		= '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
 $_['text_basket']				= 'Basket';
 $_['text_checkout']				= 'Checkout';
-$_['text_success']				= 'Success';<?php
+$_['text_success']				= 'Success';
 // Text
 $_['text_title']	= 'PayPal';
 $_['text_testmode']	= 'Warning: The payment gateway is in \'Sandbox Mode\'. Your account will not be charged.';
-$_['text_total']	= 'Shipping, Handling, Discounts & Taxes';<?php
+$_['text_total']	= 'Shipping, Handling, Discounts & Taxes';
 // Text
 $_['text_title']						= 'Cards or PayPal';
 $_['text_express_title']      			= 'Confirm order';
@@ -1693,9 +1693,9 @@ $_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
 $_['button_confirm']					= 'Pay Now';
 $_['button_express_confirm']  			= 'Confirm';
 $_['button_express_shipping'] 			= 'Update shipping';
-<?php
+
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Authorize.Net)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (Authorize.Net)';
 $_['text_checkout_title']      = 'Pay in instalments';
 $_['text_choose_plan']         = 'Choose your plan';
 $_['text_choose_deposit']      = 'Choose your deposit';
@@ -1712,7 +1712,7 @@ $_['divido_checkout']          = 'Confirm and checkout with Divido';
 $_['deposit_to_low']           = 'Deposit to low';
 $_['credit_amount_to_low']     = 'Credit amount to low';
 $_['no_country']               = 'Country not accepted';
-<?php
+
 // Heading
 $_['heading_title']				= 'Thank you for shopping with %s .... ';
 
@@ -1722,9 +1722,9 @@ $_['text_response']				= 'Response from PayPoint:';
 $_['text_success']				= '... your payment was successfully received.';
 $_['text_success_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
 $_['text_failure']				= '... Your payment has been cancelled!';
-$_['text_failure_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';<?php
+$_['text_failure_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (NOCHEX)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (NOCHEX)';
 // Text
 $_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -1747,7 +1747,7 @@ $_['error_general']				= 'Warning: A general problem has occurred with the trans
 $_['error_config']				= 'Warning: Payment module configuration error. Please verify the login credentials.';
 $_['error_address']				= 'Warning: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
 $_['error_declined']			= 'Warning: This transaction has been declined. Please try again.';
-$_['error_invalid']				= 'Warning: The provided credit card information is invalid. Please try again.';<?php
+$_['error_invalid']				= 'Warning: The provided credit card information is invalid. Please try again.';
 
 $_['text_title'] = 'Credit / Debit card';
 $_['button_confirm'] = 'Confirm';
@@ -1761,7 +1761,7 @@ $_['text_match'] = 'Matched';
 $_['text_not_match'] = 'Not matched';
 $_['text_payment_details'] = 'Payment details';
 
-$_['entry_card_type'] = 'Card type';<?php
+$_['entry_card_type'] = 'Card type';
 /**
  * @package		OpenCart
  * @author		Meng Wenbin
@@ -1778,7 +1778,7 @@ $_['text_title']                 = 'Wechat Pay';
 $_['text_checkout']              = 'Checkout';
 $_['text_qrcode']                = 'QrCode';
 $_['text_qrcode_description']    = 'Please scan the QR code in WeChat app to pay your order!';
-<?php
+
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -1832,7 +1832,7 @@ $_['error_card_name']			= 'Please check the card holder name is valid';
 $_['error_card_cvv']			= 'Please check the CVV2 is valid';
 $_['error_3d_unable']			= 'Merchant requires 3D secure but unable to verify with your bank, please try later';
 $_['error_3d_500_response_no_payment'] = 'An invalid response was received from the card processor, no payment has been taken';
-$_['error_3d_unsuccessful']		= '3D secure authorisation failed';<?php
+$_['error_3d_unsuccessful']		= '3D secure authorisation failed';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (SagePay)';
 $_['text_credit_card']			= 'Card Details';
@@ -1861,7 +1861,7 @@ $_['entry_card_save']			= 'Remember card details for future use';
 $_['entry_cc_choice']			= 'Choose an Existing Card';
 
 // Button
-$_['button_delete_card']		= 'Delete selected card';<?php
+$_['button_delete_card']		= 'Delete selected card';
 
 $_['breadcrumb_cart'] = 'Shopping Cart';
 $_['breadcrumb_payment'] = 'Payment';
@@ -1902,7 +1902,7 @@ $_['text_must_apply_coupon'] = 'Please apply your coupon.';
 $_['text_payment_success'] = 'Your order was successfully placed. Order details are below';
 $_['text_success_title'] = 'Your order has been placed!';
 $_['text_tax_other'] = 'Taxes / Other handling fees';
-<?php
+
 // Text
 $_['text_title']           = 'Credit Card / Debit Card (Authorize.Net)';
 $_['text_credit_card']     = 'Credit Card Details';
@@ -1911,7 +1911,7 @@ $_['text_credit_card']     = 'Credit Card Details';
 $_['entry_cc_owner']       = 'Card Owner';
 $_['entry_cc_number']      = 'Card Number';
 $_['entry_cc_expire_date'] = 'Card Expiry Date';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2)';<?php
+$_['entry_cc_cvv2']        = 'Card Security Code (CVV2)';
 // Text
 $_['text_title']            = 'Credit Card / Debit Card';
 $_['text_card_details']     = 'Card Details';
@@ -1954,7 +1954,7 @@ $_['error_no_card']         = 'No such card found!';
 $_['error_no_echeck']       = 'eCheck is not supported!';
 $_['error_account_number']  = 'Account Number must be between 1 and 19 characters!';
 $_['error_routing_number']  = 'Routing Number must be between 1 and 9 characters!';
-$_['error_not_enabled']     = 'Module not enabled';<?php
+$_['error_not_enabled']     = 'Module not enabled';
 // Text
 $_['text_new_card']                     = '+ Add new card';
 $_['text_loading']                      = 'Loading... Please wait...';
@@ -2010,11 +2010,11 @@ $_['squareup_override_error_billing_address.country']       = 'Payment Address c
 $_['squareup_override_error_shipping_address.country']      = 'Shipping Address country is not valid. Please modify it and try again.';
 $_['squareup_override_error_email_address']                 = 'Your customer e-mail address is not valid. Please modify it and try again.';
 $_['squareup_override_error_phone_number']                  = 'Your customer phone number is not valid. Please modify it and try again.';
-$_['squareup_error_field']                                  = ' Field: %s';<?php
+$_['squareup_error_field']                                  = ' Field: %s';
 // Text
-$_['text_title'] = 'Cash On Delivery';<?php
+$_['text_title'] = 'Cash On Delivery';
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Payza)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (Payza)';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (BluePay)';
 $_['text_credit_card']			= 'Card Details';
@@ -2043,9 +2043,9 @@ $_['entry_cc_state']			= 'State';
 $_['entry_cc_zipcode']			= 'Zipcode';
 $_['entry_cc_phone']			= 'Phone';
 $_['entry_cc_email']			= 'E-mail';
-$_['entry_cc_choice']			= 'Choose an Existing Card';<?php
+$_['entry_cc_choice']			= 'Choose an Existing Card';
 // Text
-$_['text_title'] = 'Alipay';<?php
+$_['text_title'] = 'Alipay';
 // Text
 $_['text_title']           = 'Credit Card / Debit Card (Web Payment Software)';
 $_['text_credit_card']     = 'Credit Card Details';
@@ -2054,9 +2054,9 @@ $_['text_credit_card']     = 'Credit Card Details';
 $_['entry_cc_owner']       = 'Card Owner';
 $_['entry_cc_number']      = 'Card Number';
 $_['entry_cc_expire_date'] = 'Card Expiry Date';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2)';<?php
+$_['entry_cc_cvv2']        = 'Card Security Code (CVV2)';
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (LiqPay)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (LiqPay)';
 // Heading
 $_['text_title']				= 'Credit / Debit card (Globalpay)';
 
@@ -2103,7 +2103,7 @@ $_['text_card_mc']				= 'Mastercard';
 $_['text_card_amex']			= 'American Express';
 $_['text_card_switch']			= 'Switch';
 $_['text_card_laser']			= 'Laser';
-$_['text_card_diners']			= 'Diners';<?php
+$_['text_card_diners']			= 'Diners';
 // Heading
 $_['heading_title']				   = 'Klarna Checkout';
 $_['heading_title_success']		   = 'Your Klarna Checkout order has been placed!';
@@ -2115,13 +2115,13 @@ $_['text_checkout']				   = 'Checkout';
 $_['text_success']				   = 'Success';
 $_['text_choose_shipping_method']  = 'Choose shipping method';
 $_['text_sales_tax']			   = 'Sales Tax';
-$_['text_newsletter']			   = 'Subscribe to our newsletter';<?php
+$_['text_newsletter']			   = 'Subscribe to our newsletter';
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_secure_connection']	= 'Creating a secure connection...';
 
 // Error
-$_['error_connection']			= 'Could not connect to PayPal. Please contact the shop\'s administrator for assistance or choose a different payment method.';<?php
+$_['error_connection']			= 'Could not connect to PayPal. Please contact the shop\'s administrator for assistance or choose a different payment method.';
 // Heading
 $_['heading_title']			= 'Please Choose Your Payment Plan';
 
@@ -2149,7 +2149,7 @@ $_['entry_initial']			= 'Initial Payment';
 $_['entry_months']			= 'Months';
 
 // Button
-$_['button_confirm']		= 'Confirm Order';<?php
+$_['button_confirm']		= 'Confirm Order';
 $_['text_title'] = 'Credit / Debit card';
 $_['text_card_details'] = 'Card details';
 $_['text_wait'] = 'Processing your payment';
@@ -2177,7 +2177,7 @@ $_['entry_cvv2'] = 'Security Code (CVV2)';
 
 $_['button_confirm'] = 'Confirm';
 
-$_['error_failure'] = 'Could not complete transaction. Please try again later or use a different payment method.';<?php
+$_['error_failure'] = 'Could not complete transaction. Please try again later or use a different payment method.';
 // Heading
 $_['text_title']				= 'Credit / Debit card (First Data)';
 
@@ -2218,9 +2218,9 @@ $_['text_response_proc_code']	= 'Processor code: ';
 $_['text_response_ref']			= 'Ref number: ';
 
 // Error
-$_['error_failed']				= 'Unable to process your payment, please try again';<?php
+$_['error_failed']				= 'Unable to process your payment, please try again';
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Skrill)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (Skrill)';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (SagePay)';
 $_['text_credit_card']			= 'Card Details';
@@ -2247,13 +2247,13 @@ $_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';
 $_['entry_cc_choice']			= 'Choose an Existing Card';
 
 // Button
-$_['button_delete_card']		= 'Delete selected card';<?php
+$_['button_delete_card']		= 'Delete selected card';
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (2Checkout)';<?php
+$_['text_title'] = 'Credit Card / Debit Card (2Checkout)';
 // Text
-$_['text_title'] = 'Free Checkout';<?php
+$_['text_title'] = 'Free Checkout';
 // Text
-$_['text_title'] = 'Credit / Debit Card / Paypal / Wallet (G2APay)';<?php
+$_['text_title'] = 'Credit / Debit Card / Paypal / Wallet (G2APay)';
 // Text
 $_['text_title']				= 'Credit or Debit Card (Processed securely by Perpetual Payments)';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -2272,7 +2272,7 @@ $_['entry_cc_issue']			= 'Card Issue Number';
 
 // Help
 $_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';<?php
+$_['help_issue']				= '(for Maestro and Solo cards only)';
 // Heading
 $_['text_title']				= 'Credit / Debit card (Realex)';
 
@@ -2319,7 +2319,7 @@ $_['text_card_mc']				= 'Mastercard';
 $_['text_card_amex']			= 'American Express';
 $_['text_card_switch']			= 'Switch';
 $_['text_card_laser']			= 'Laser';
-$_['text_card_diners']			= 'Diners';<?php
+$_['text_card_diners']			= 'Diners';
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -2373,13 +2373,13 @@ $_['error_card_name']			= 'Please check the card holder name is valid';
 $_['error_card_cvv']			= 'Please check the CVV2 is valid';
 $_['error_3d_unable']			= 'Merchant requires 3D secure but unable to verify with your bank, please try later';
 $_['error_3d_500_response_no_payment'] = 'An invalid response was received from the card processor, no payment has been taken';
-$_['error_3d_unsuccessful']		= '3D secure authorisation failed';<?php
+$_['error_3d_unsuccessful']		= '3D secure authorisation failed';
 // Text
 $_['text_title']        = 'Pilibaba (霹雳爸爸支付)';
-$_['text_redirecting']  = 'Redirecting...';<?php
+$_['text_redirecting']  = 'Redirecting...';
 // Text
 $_['text_title'] = 'Alipay Cross';
-<?php
+
 // Text
 $_['text_title']			 = 'Credit Card / Debit Card (Worldpay)';
 $_['text_credit_card']		 = 'Card Details';
@@ -2406,7 +2406,7 @@ $_['entry_cc_choice']		 = 'Choose an Existing Card';
 $_['button_delete_card']	 = 'Delete Card';
 
 // Error
-$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';<?php
+$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -2462,7 +2462,7 @@ $_['text_response_ref']			= 'Ref number: ';
 $_['error_card_number']			= 'Please check your card number is valid';
 $_['error_card_name']			= 'Please check the card holder name is valid';
 $_['error_card_cvv']			= 'Please check the CVV2 is valid';
-$_['error_failed']				= 'Unable to process your payment, please contact the merchant';<?php
+$_['error_failed']				= 'Unable to process your payment, please contact the merchant';
 // Text
 $_['text_title']				= 'Klarna Invoice - Pay within 14 days';
 $_['text_terms_fee']			= '<span id="klarna_invoice_toc"></span> (+%s)<script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\', charge: %s});</script>';
@@ -2496,13 +2496,13 @@ $_['help_company']				= 'Please enter your Company\'s registration number';
 // Error
 $_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
 $_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Invoice';
-$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';<?php
+$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
 // Text
 $_['text_title']       = 'Cheque / Money Order';
 $_['text_instruction'] = 'Cheque / Money Order Instructions';
 $_['text_payable']     = 'Make Payable To: ';
 $_['text_address']     = 'Send To: ';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';<?php
+$_['text_payment']     = 'Your order will not ship until we receive payment.';
 // Text
 $_['text_title']				= 'Credit Card / Debit Card (SagePay)';
 $_['text_credit_card']			= 'Credit Card Details';
@@ -2511,12 +2511,12 @@ $_['text_credit_card']			= 'Credit Card Details';
 $_['entry_cc_owner']			= 'Card Owner';
 $_['entry_cc_number']			= 'Card Number';
 $_['entry_cc_expire_date']		= 'Card Expiry Date';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';<?php
+$_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';
 // Text
 $_['text_title']       = 'Bank Transfer';
 $_['text_instruction'] = 'Bank Transfer Instructions';
 $_['text_description'] = 'Please transfer the total amount to the following bank account.';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';<?php
+$_['text_payment']     = 'Your order will not ship until we receive payment.';
 // Heading
 $_['express_text_title']      = 'Confirm order';
 
@@ -2543,7 +2543,7 @@ $_['error_heading_title']	  = 'There was an error';
 $_['error_too_many_failures'] = 'Your payment has failed too many times';
 $_['error_unavailable'] 	  = 'Please use the full checkout with this order';
 $_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
-<?php
+
 // Text
 $_['text_title']				= 'Klarna Account - Pay from %s/month';
 $_['text_terms']				= '<span id="klarna_account_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Account({el: \'klarna_account_toc\', eid: \'%s\', country: \'%s\'});</script>';
@@ -2580,7 +2580,7 @@ $_['help_company']				= 'Please enter your Company\'s registration number';
 // Error
 $_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
 $_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Payments';
-$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';<?php
+$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
 
 // Text
 $_['text_title']												= 'Pay with Credit Card (eWAY)';
@@ -2814,7 +2814,7 @@ $_['text_card_message_F9031']									= 'Multiple transactions for same credit c
 $_['text_card_message_F9032']									= 'Invalid Customer Last Name';
 $_['text_card_message_F9033']									= 'Invalid Billing Street';
 $_['text_card_message_F9034']									= 'Invalid Shipping Street';
-$_['text_card_message_F9037']									= 'Suspicious Customer Email Address';<?php
+$_['text_card_message_F9037']									= 'Suspicious Customer Email Address';
 // Text
 $_['text_title']						= 'Credit Card / Debit Card (Cardinity)';
 $_['text_payment_success']				= 'Payment success, details below';
@@ -2837,7 +2837,7 @@ $_['error_invalid_hash']				= 'Invalid hash.';
 $_['error_payment_declined']			= 'Payment was declined by issuing bank.';
 
 // Button
-$_['button_confirm']					= 'Pay Now';<?php
+$_['button_confirm']					= 'Pay Now';
 // Heading
 $_['heading_title']         = 'Sagepay Server Cards';
 
@@ -2868,7 +2868,7 @@ $_['button_new_card']       = 'Add New Card';
 
 
 
-<?php
+
 
 $_['heading_title'] = 'Square Credit Cards';
 
@@ -2878,7 +2878,7 @@ $_['text_delete'] = 'Delete';
 $_['text_no_cards'] = 'There are no cards stored on our database.';
 $_['text_card_ends_in'] = '%s card ending in &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; %s';
 $_['text_warning_card'] = 'Do you confirm you want to remove this card? You may add it again later on your next checkout.';
-$_['text_success_card_delete'] = 'Success! This card has been removed.';<?php
+$_['text_success_card_delete'] = 'Success! This card has been removed.';
 // Heading
 $_['heading_title']         = 'Sagepay Direct Cards';
 
@@ -2909,13 +2909,13 @@ $_['button_new_card']       = 'Add New Card';
 
 
 
-<?php
+
 // Text
 $_['text_total_shipping'] = 'Shipping';
 $_['text_total_discount'] = 'Discount';
 $_['text_total_tax']      = 'Tax';
 $_['text_total_sub']      = 'Sub-total';
-$_['text_total']          = 'Total';<?php
+$_['text_total']          = 'Total';
 // Text
 $_['text_total_shipping']		= 'Shipping';
 $_['text_total_discount']		= 'Discount';
@@ -2923,7 +2923,7 @@ $_['text_total_tax']			= 'Tax';
 $_['text_total_sub']			= 'Sub-total';
 $_['text_total']				= 'Total';
 $_['text_smp_id']				= 'Selling Manager sale ID: ';
-$_['text_buyer']				= 'Buyer username: ';<?php
+$_['text_buyer']				= 'Buyer username: ';
 // Text
 $_['text_paid_amazon'] 			= 'Paid on Amazon';
 $_['text_total_shipping'] 		= 'Shipping';
@@ -2934,7 +2934,7 @@ $_['text_total_sub'] 			= 'Sub-total';
 $_['text_tax'] 					= 'Tax';
 $_['text_total'] 				= 'Total';
 $_['text_gift_message'] 		= 'Gift messages';
-<?php
+
 // Text
 $_['text_paid_amazon'] 			= 'Paid on Amazon';
 $_['text_total_shipping'] 		= 'Shipping';
@@ -2945,10 +2945,10 @@ $_['text_total_sub'] 			= 'Sub-total';
 $_['text_tax'] 					= 'Tax';
 $_['text_total'] 				= 'Total';
 $_['text_gift_message'] 		= 'Gift messages';
-<?php
+
 // Text
 $_['text_title']  = 'Weight Based Shipping';
-$_['text_weight'] = 'Weight:';<?php
+$_['text_weight'] = 'Weight:';
 // Text
 $_['text_title']                        = 'Royal Mail';
 $_['text_weight']                       = 'Weight:';
@@ -2962,9 +2962,9 @@ $_['text_international_standard']       = 'International Standard';
 $_['text_international_tracked_signed'] = 'International Tracked & Signed';
 $_['text_international_tracked']        = 'International Tracked';
 $_['text_international_signed']         = 'International Signed';
-$_['text_international_economy']        = 'International Economy';<?php
+$_['text_international_economy']        = 'International Economy';
 // Text
-$_['text_title']    = 'Australia Post';<?php
+$_['text_title']    = 'Australia Post';
 // Text
 $_['text_title']                               = 'EC-Ship';
 $_['text_weight']                              = 'Weight:';
@@ -2983,10 +2983,10 @@ $_['text_local_parcel']                        = 'Local Parcel';
 
 //error
 $_['text_unavailable']                         = 'No shipping service available';
-<?php
+
 // Text
 $_['text_title']       = 'Flat Rate';
-$_['text_description'] = 'Flat Shipping Rate';<?php
+$_['text_description'] = 'Flat Shipping Rate';
 // Text
 $_['text_title']           = 'United Parcel Service';
 $_['text_weight']          = 'Weight:';
@@ -3034,23 +3034,23 @@ $_['text_other_origin_07'] = 'UPS Express';
 $_['text_other_origin_08'] = 'UPS Worldwide Expedited';
 $_['text_other_origin_11'] = 'UPS Standard';
 $_['text_other_origin_54'] = 'UPS Worldwide Express Plus';
-$_['text_other_origin_65'] = 'UPS Saver';<?php
+$_['text_other_origin_65'] = 'UPS Saver';
 // Text
 $_['text_title']       = 'Free Shipping';
-$_['text_description'] = 'Free Shipping';<?php
+$_['text_description'] = 'Free Shipping';
 // Text
 $_['text_title']       = 'PiliExpress';
-$_['text_description'] = 'PiliExpress (仅限霹雳爸爸支付, Only for Pilibaba checkout)';<?php
+$_['text_description'] = 'PiliExpress (仅限霹雳爸爸支付, Only for Pilibaba checkout)';
 // Text
 $_['text_title']  = 'United States Postal Service';
 $_['text_weight'] = 'Weight:';
-$_['text_eta']    = 'Estimated Time:';<?php
+$_['text_eta']    = 'Estimated Time:';
 // Text
 $_['text_title']       = 'Pickup';
-$_['text_description'] = 'Pickup From Store';<?php
+$_['text_description'] = 'Pickup From Store';
 // Text
 $_['text_title']       = 'Per Item';
-$_['text_description'] = 'Per Item Shipping Rate';<?php
+$_['text_description'] = 'Per Item Shipping Rate';
 // Text
 $_['text_title']                               = 'Fedex';
 $_['text_weight']                              = 'Weight:';
@@ -3075,21 +3075,21 @@ $_['text_international_priority']              = 'International Priority';
 $_['text_international_priority_freight']      = 'International Priority Freight';
 $_['text_priority_overnight']                  = 'Priority Overnight';
 $_['text_smart_post']                          = 'Smart Post';
-$_['text_standard_overnight']                  = 'Standard Overnight';<?php
+$_['text_standard_overnight']                  = 'Standard Overnight';
 // Text
 $_['text_title']       = 'Parcelforce 48';
 $_['text_description'] = 'Parcelforce 48';
 $_['text_weight']      = 'Weight:';
 $_['text_insurance']   = 'Insured upto:';
-$_['text_time']        = 'Estimated Time: Within 48 Hours';<?php
+$_['text_time']        = 'Estimated Time: Within 48 Hours';
 
 // Text
 $_['text_cron_email_message'] = '<p>This is an automated report of the latest CRON task performed by your Google Shopping extension.</p><p>%s</p>';
 $_['text_cron_email_subject'] = 'CRON job report - Google Shopping on OpenCart';
 $_['text_per_day']            = '$%s / day';
-<?php
+
 // Text
-$_['text_search'] = 'Search';<?php
+$_['text_search'] = 'Search';
 // Text
 $_['text_home']          = 'Home';
 $_['text_wishlist']      = 'Wish List (%s)';
@@ -3104,23 +3104,23 @@ $_['text_download']      = 'Downloads';
 $_['text_logout']        = 'Logout';
 $_['text_checkout']      = 'Checkout';
 $_['text_search']        = 'Search';
-$_['text_all']           = 'Show All';<?php
+$_['text_all']           = 'Show All';
 // Heading
 $_['heading_title']    = 'Maintenance';
 
 // Text
 $_['text_maintenance'] = 'Maintenance';
-$_['text_message']     = '<h1 style="text-align:center;">We are currently performing some scheduled maintenance. <br/>We will be back as soon as possible. Please check back soon.</h1>';<?php
+$_['text_message']     = '<h1 style="text-align:center;">We are currently performing some scheduled maintenance. <br/>We will be back as soon as possible. Please check back soon.</h1>';
 // Text
-$_['text_all'] = 'Show All';<?php
+$_['text_all'] = 'Show All';
 // Text
 $_['text_items']     = '%s item(s) - %s';
 $_['text_empty']     = 'Your shopping cart is empty!';
 $_['text_cart']      = 'View Cart';
 $_['text_checkout']  = 'Checkout';
-$_['text_recurring'] = 'Payment Profile';<?php
+$_['text_recurring'] = 'Payment Profile';
 // Text
-$_['text_language'] = 'Language';<?php
+$_['text_language'] = 'Language';
 // Text
 $_['text_information']  = 'Information';
 $_['text_service']      = 'Customer Service';
@@ -3136,16 +3136,16 @@ $_['text_account']      = 'My Account';
 $_['text_order']        = 'Order History';
 $_['text_wishlist']     = 'Wish List';
 $_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';<?php
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
 // Text
-$_['text_currency'] = 'Currency';<?php
+$_['text_currency'] = 'Currency';
 // Text
 $_['text_upload']    = 'Your file was successfully uploaded!';
 
 // Error
 $_['error_filename'] = 'Filename must be between 3 and 64 characters!';
 $_['error_filetype'] = 'Invalid file type!';
-$_['error_upload']   = 'Upload required!';<?php
+$_['error_upload']   = 'Upload required!';
 // Heading
 $_['heading_title']  = 'Contact Us';
 
@@ -3171,7 +3171,7 @@ $_['email_subject']  = 'Enquiry %s';
 // Errors
 $_['error_name']     = 'Name must be between 3 and 32 characters!';
 $_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';<?php
+$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
 // Heading
 $_['heading_title']    = 'Site Map';
 
@@ -3196,6 +3196,6 @@ $_['text_contact']     = 'Contact Us';<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1
 
 <body>
 </body>
-</html><?php
+</html>
 // Text
 $_['text_error'] = 'Information Page Not Found!';
