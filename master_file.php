@@ -3187,4 +3187,4 @@ $_['text_cart']        = 'Shopping Cart';
 $_['text_checkout']    = 'Checkout';
 $_['text_search']      = 'Search';
 $_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+$_['text_contact']     = 'Contact Us';
